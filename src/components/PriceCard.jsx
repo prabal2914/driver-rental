@@ -26,8 +26,7 @@ const PriceCard = ({ priceCategory, dollar, features }) => {
       </div>
 
       <p className="text-2xl px-4 py-8 text-slate-500">
-        Now radiant parting quoth all spoken she tempest seeming of, gently door
-        you was many the the raven perched. Both.
+        You can check out the services and book according to your needs.
       </p>
 
       <div className="text-2xl">
